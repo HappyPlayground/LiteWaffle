@@ -1,0 +1,14 @@
+token: "" # REQUIRED
+
+prefix: "" # REQUIRED
+
+channelId: "" # REQUIRED
+
+webhooks:
+  chatLog: "" # REQUIRED
+  killLog: "" # REQUIRED
+
+options:
+  sendAdvancement: false
+  language: ""
+  owners: []
